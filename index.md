@@ -61,7 +61,7 @@ description:
   <section id="cursos">
     <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
-    <p><img src="https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/5.png" alt="Curso de Excel"></p>
+    <p><img src="https://raw.githubusercontent.com/ProfEmilson/ECMCursoseTreinamentos/main/imagens/5.png" alt="Curso de Excel"></p>
 
   </section>
   
