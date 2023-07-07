@@ -51,16 +51,10 @@
     <a href="#contatos">Contatos</a>
   </nav>
 
-![](https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/6.png)
-
   <section id="cursos">
     <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
-    <p>![](https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/6.png)</p>
-    
-    ![](\..\imagens\5.png)
-
-    ![](C:\Users\emils\Google Drive (professoremilsoncardosomoreira@gmail.com)\GitHub Pages\ECMCursoseTreinamentos\imagens\5.png)
+    <img src="https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/5.png" alt="Curso de Excel">
 
   </section>
   
