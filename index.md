@@ -11,7 +11,7 @@ description:
   <style>
     /* Estilos opcionais para melhorar a aparência do site */
     body {
-      font-family: Comic, sans-serif;
+      font-family: arial, sans-serif;
       margin: 0;
       padding: 0;
     }
@@ -54,7 +54,7 @@ description:
   
   <nav>
     <a href="#cursos">Cursos</a>
-    <a href="#secao2">Seção 2</a>
+    <a href="#conteudo">Conteúdo</a>
     <a href="#contatos">Contatos</a>
   </nav>
 
