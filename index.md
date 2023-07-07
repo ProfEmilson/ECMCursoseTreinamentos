@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Meu Site</title>
+  <title>ECM Cursos & Treinamentos</title>
   <style>
     /* Estilos opcionais para melhorar a aparência do site */
     body {
@@ -17,7 +16,7 @@
     }
     
     nav {
-      background-color: #333;
+      background-color: #000;
       overflow: hidden;
     }
     
@@ -43,27 +42,27 @@
 </head>
 <body>
   <header>
-    <h1>Meu Site</h1>
+    <h1>ECM Cursos & Treinamentos</h1>
   </header>
   
   <nav>
-    <a href="#secao1">Seção 1</a>
+    <a href="#cursos">Cursos</a>
     <a href="#secao2">Seção 2</a>
-    <a href="#secao3">Seção 3</a>
+    <a href="#contatos">Contatos</a>
   </nav>
   
-  <section id="secao1">
-    <h2>Seção 1</h2>
+  <section id="cursos">
+    <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
   </section>
   
-  <section id="secao2">
-    <h2>Seção 2</h2>
+  <section id="conteudo">
+    <h2>Conteúdo dos Cursos</h2>
     <p>Conteúdo da Seção 2</p>
   </section>
   
-  <section id="secao3">
-    <h2>Seção 3</h2>
+  <section id="contatos">
+    <h2>Contatos</h2>
     <p>Conteúdo da Seção 3</p>
   </section>
   
