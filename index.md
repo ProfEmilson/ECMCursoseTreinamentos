@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Minha Página</title>
+  <title>ECM Cursos & Treinamentos</title>
   <style>
     /* Estilos para o menu */
     ul {
@@ -12,7 +12,7 @@
     }
 
     li {
-      float: center;
+      float: left;
     }
 
     li a {
