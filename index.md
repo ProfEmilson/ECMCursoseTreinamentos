@@ -54,7 +54,7 @@
   <section id="cursos">
     <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
-    <p>![](C:\Users\emils\Google Drive (professoremilsoncardosomoreira@gmail.com)\GitHub Pages\ECMCursoseTreinamentos\imagens\6.png)</p>
+    <p>![](https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/6.png)</p>
     
     ![](\..\imagens\5.png)
 
