@@ -54,7 +54,7 @@
   <section id="cursos">
     <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
-    <img src="https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/5.png" alt="Curso de Excel">
+    <p><img src="https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/5.png" alt="Curso de Excel"></p>
 
   </section>
   
