@@ -11,7 +11,7 @@ description:
   <style>
     /* Estilos opcionais para melhorar a aparência do site */
     body {
-      font-family: Arial, sans-serif;
+      font-family: Comic, sans-serif;
       margin: 0;
       padding: 0;
     }
@@ -40,7 +40,7 @@ description:
     }
     
     footer {
-      background-color: #333;
+      background-color: #000;
       color: white;
       padding: 20px;
       text-align: center;
@@ -76,7 +76,7 @@ description:
   </section>
   
   <footer>
-    <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+    <p>&copy; 2023 ECM Cursos & Treinamentos. Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
