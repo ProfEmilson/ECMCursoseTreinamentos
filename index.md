@@ -50,7 +50,9 @@
     <a href="#secao2">Seção 2</a>
     <a href="#contatos">Contatos</a>
   </nav>
-  
+
+![](https://github.com/ProfEmilson/ECMCursoseTreinamentos/blob/main/imagens/6.png)
+
   <section id="cursos">
     <h2>Cursos</h2>
     <p>Conteúdo da Seção 1</p>
