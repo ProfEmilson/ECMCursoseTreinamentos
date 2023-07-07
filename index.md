@@ -1,69 +1,74 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title>ECM Cursos & Treinamentos</title>
+  <title>Meu Site</title>
   <style>
-    /* Estilos para o menu */
-    ul {
-      list-style-type: none;
+    /* Estilos opcionais para melhorar a aparência do site */
+    body {
+      font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
+    }
+    
+    header {
+      background-color: #f2f2f2;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #333;
       overflow: hidden;
-      background-color: #000;
     }
-
-    li {
+    
+    nav a {
       float: left;
-    }
-
-    li a {
-      display: block;
       color: white;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
     }
-
-    li a:hover {
-      background-color: #111;
+    
+    section {
+      padding: 50px;
     }
-
+    
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
-  <ul>
-    <li><a href="#cursos">Cursos</a></li>
-    <li><a href="#sobre">Sobre</a></li>
-    <li><a href="#contato">Contato</a></li>
-  </ul>
-
-  <h1>Bem-vindo à minha página!</h1>
-
-  <!-- Conteúdo da página -->
-
-</body>
-
-<head>
-  <style>
-    .container {
-      display: flex; /* Define o container como flexível */
-    }
-
-    .image {
-      flex: 50%; /* Divide o espaço igualmente entre as imagens */
-      padding: 5px; /* Espaçamento entre as imagens */
-      box-sizing: border-box; /* Inclui o espaçamento dentro das dimensões da imagem */
-    }
-
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="image">
-      <img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/o-golfinho-um-exemplo-animal-pertencente-ao-grupo-dos-mamiferos-5bd334f3235f1.jpg" alt="Imagem 1">
-    </div>
-    <div class="image">
-      <img src="http://www.vetypiranga.com.br/wp-content/uploads/2018/05/imagem-animal-novo-lar-1024x688.png" alt="Imagem 2">
-    </div>
-  </div>
+  <header>
+    <h1>Meu Site</h1>
+  </header>
+  
+  <nav>
+    <a href="#secao1">Seção 1</a>
+    <a href="#secao2">Seção 2</a>
+    <a href="#secao3">Seção 3</a>
+  </nav>
+  
+  <section id="secao1">
+    <h2>Seção 1</h2>
+    <p>Conteúdo da Seção 1</p>
+  </section>
+  
+  <section id="secao2">
+    <h2>Seção 2</h2>
+    <p>Conteúdo da Seção 2</p>
+  </section>
+  
+  <section id="secao3">
+    <h2>Seção 3</h2>
+    <p>Conteúdo da Seção 3</p>
+  </section>
+  
+  <footer>
+    <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+  </footer>
 </body>
 </html>
